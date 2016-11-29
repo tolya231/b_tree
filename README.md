@@ -1,3 +1,2 @@
 # b_tree
-Implementation of B-Tree
-/nJava
+Implementation of B-Tree, Java
