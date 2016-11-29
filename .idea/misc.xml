@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="method" FQNAME="B_tree void delete(int key)" />
+      <entry_point TYPE="method" FQNAME="B_tree boolean find(int key)" />
+      <entry_point TYPE="method" FQNAME="B_tree.MyException MyException(java.lang.String s)" />
+      <entry_point TYPE="class" FQNAME="B_tree.MyException" />
+      <entry_point TYPE="field" FQNAME="B_tree MINIMUM_PARAM_T" />
+      <entry_point TYPE="method" FQNAME="B_tree B_tree(int t)" />
+      <entry_point TYPE="class" FQNAME="B_tree" />
+    </entry_points>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
